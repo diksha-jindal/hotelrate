@@ -1,0 +1,31 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Browser sessions
+.playwright/
+
+# OS files
+.DS_Store
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Reports and runtime artifacts
+reports/*_debug_*.json
+reports/*_debug_*.html
+reports/google_runtime_*.html
+reports/google_runtime_*.json
+reports/nightly_quote_report.json
+reports/live_*.json
+reports/url_mapping_cache.json

@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-09-09T12:17:25.134477Z",
+  "request": {
+    "hotel_name": "Park Hyatt Tokyo",
+    "city": "Tokyo",
+    "checkin": "2026-05-01",
+    "checkout": "2026-05-02",
+    "adults": 2,
+    "children": 0,
+    "currency": "USD",
+    "locale": "en-US",
+    "market": null,
+    "platforms": [
+      "trip"
+    ],
+    "known_urls": {},
+    "probe_days_ahead": 12,
+    "probe_step_days": 3
+  },
+  "results": [
+    {
+      "platform": "trip",
+      "selected_url": "https://www.trip.com/hotels/detail/?hotelId=993514&checkIn=2026-05-01&checkOut=2026-05-02&adult=2&children=0&curr=USD&barcurr=USD&locale=en-US",
+      "selected_checkin": "2026-05-01",
+      "selected_checkout": "2026-05-02",
+      "offer_count": 50,
+      "structured_offer_count": 50,
+      "diagnosis": "structured offers captured",
+      "offers": [
+        {
+          "room_name": "1 King Bed, City View",
+          "final_price": "1239.80",
+          "base_price": "1126.00",
+          "tax_fee": "260.76",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "2 Twin Beds, City View",
+          "final_price": "1239.80",
+          "base_price": "1126.00",
+          "tax_fee": "260.76",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "1 King Bed, City View",
+          "final_price": "1241.11",
+          "base_price": "1126.00",
+          "tax_fee": "262.06",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "2 Twin Beds, City View",
+          "final_price": "1241.11",
+          "base_price": "1126.00",
+          "tax_fee": "262.06",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "1 King Bed, Deluxe",
+          "final_price": "1262.10",
+          "base_price": "1146.00",
+          "tax_fee": "265.43",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "1 King Bed, Deluxe",
+          "final_price": "1263.41",
+          "base_price": "1146.00",
+          "tax_fee": "266.73",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "2 Double Beds, Deluxe",
+          "final_price": "1264.57",
+          "base_price": "1148.00",
+          "tax_fee": "265.94",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "2 Double Beds, Deluxe",
+          "final_price": "1265.88",
+          "base_price": "1148.00",
+          "tax_fee": "267.24",
+          "currency": "USD",
+          "meal_plan": "Great breakfast for $53.56 (optional)",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "1 King Bed, City View",
+          "final_price": "1289.34",
+          "base_price": "1171.00",
+          "tax_fee": "271.13",
+          "currency": "USD",
+          "meal_plan": "Includes 1 great breakfast",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        },
+        {
+          "room_name": "2 Twin Beds, City View",
+          "final_price": "1289.34",
+          "base_price": "1171.00",
+          "tax_fee": "271.13",
+          "currency": "USD",
+          "meal_plan": "Includes 1 great breakfast",
+          "cancellation_policy": "Non-refundable",
+          "source_url": "https://www.trip.com/restapi/soa2/33269/getHotelRoomListOversea",
+          "mode": "trip_room_list_oversea"
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://www.trip.com/hotels/detail/?hotelId=993514&checkIn=2026-05-01&checkOut=2026-05-02&adult=2&children=0&curr=USD&barcurr=USD&locale=en-US",
+          "checkin": "2026-05-01",
+          "checkout": "2026-05-02",
+          "offer_count": 50,
+          "structured_offer_count": 50,
+          "modes": [
+            "trip_room_list_oversea"
+          ],
+          "diagnosis": "structured offers captured; fallback=0; match=0"
+        }
+      ]
+    }
+  ]
+}
